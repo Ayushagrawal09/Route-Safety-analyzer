@@ -1,0 +1,157 @@
+From,To,Time,Distance_km,Street_Lights,Crowd,CCTV,Police,Incidents
+Dahntoli,Itwari,6 AM to 2 PM,3.7,2,3,4,1,1
+Hingna,Trimurti Nagar,5 AM to 4 PM,9.5,2,4,1,1,7
+Futala,Seminary Hills,7 PM to 5 AM,2.5,2,9,2,1,6
+civil lines,Gittikhadan,5 PM to 8 PM,3.4,5,3,3,1,4
+Civil Lines,Gittikhadan,7 PM to 5 AM,3.4,5,1,3,1,16
+Sitabuldi,Civi Lines,4pm - 7pm,2,5,4,4,2,4
+Besa / Beltarodi,Manash Nagar,4 PM to 7 PM,6.1,1,3,3,1,5
+Bajaj aNgar,Pratap Nagar,9 PM to 5 AM,2.1,4,,5,1,0
+Pratap Nagar,Wardha Road,4 PM to 7 PM,2.1,3,4,3,1,0
+Hingna,Manish Ngr,1 AM to 4 AM,9.3,1,1,3,1,17
+Gittikhadan,Koradi,7 PM to 5 AM,10.8,3,1,3,1,12
+Dhantoli,DHARAMPETH,9 PM to 5 AM,2,5,3,4,1,5
+Gttikhadan,Sitabuldi,8 AM to 12 PM,4.5,3,4,2,1,2
+Gittikhadan,Koradi,5pm-8pm,10.8,3,4,3,1,8
+Shankar Nagar, Trimurti Nagar ,4 PM to 7 PM,1.2,4,2,4,1,1
+Dhantoli,Itwari,4 PM to 7 PM,3.7,2,4,4,1,5
+Pratup Nagar,Wardha Road,7 PM to 5 AM,2.1,3,2,3,1,6
+Civil Lines,Ramdaspeth,6 PM to 8 PM,2.9,4,4,3,1,3
+Civil Lines,Seminary Hills,4 PM to 6 PM,2.2,3,2,3,1,2
+Dhantoli,Ramdaspeth,6 PM to 8 PM,1.2,5,,5,1,1
+Civil Lines,Sitabuldi,7 PM to 5 AM,2,5,2,4,2,4
+Dhantoli,Dharampeth,4pm - 7pm,2,5,5,4,1,2
+Manewada,Narendra NNagar, 5 AM - 4 PM ,4.2,3,4,2,1,7
+ dharampeth ,Ramdaspeth,6am - 2pm,1.3,5,4,3,2,3
+Manish Nagar,Wardha Rd,5 AM to 4 PM,1.8,3,2,2,1,3
+Kamptee,Koradi Road,12 AM to 5 AM,15.7,3,0,2,0,24
+Gorewada Area,Koradi Road, 8 PM to 4 AM ,4.8,1,1,0,1,17
+ Dharampeth ,Ramdaspeth,6 PM to 8 PM,1.3,5,4,3,2,1
+Guttikhadan,Koradi Rad,5 PM to 8 PM,2.7,4,3,3,1,4
+Itwari,Ramdaspeth,5 PM to 7 PM,4.3,2,4,3,1,
+Ramdaspeth,Sitabuldi,4 PM to 7 PM,1.5,5,4,4,1,4
+Dhantoli,Sitabuldi,4 PM to 6 PM,1.9,5,4,4,1,1
+Civil Lines,Ramdaspeth,7 PM to 3 AM,2.9,4,2,3,1,5
+Bajajj Nagar,Trimurti Nagar,5 AM to 4 PM,0.9,,3,5,1,0
+Itwari,Sitabuldi,5 PM to 7 PM,3.3,5,5,2,1,1
+Dharampeth,Futala,5 AM to 4 PM,4,4,4,3,1,2
+Manish Nagaar,  Narendra Nagar ,7 AM to 3 PM,2.6,4,2,2,1,2
+Bajej Nagar,Trimurti Nagar,7 PM to 3 AM,0.9,4,2,5,1,1
+Ramaspeth,Sitabuldi,11 PM to 4 AM,1.5,4,3,4,1,1
+Gittikhadan,Kamtee,4 PM to 6 PM,14.9,2,2,2,0,17
+dharampeth,Shankar Nagar,4 PM to 7 PM,1,4,5,3,1,0
+Trimurti Nugar,Hingna,7 PM to 5 AM,9.5,2,2,1,1,12
+Gorewada Area,Koradi,8 PM - 3 AM,9.6,2,1,1,3,30
+Dharampeth,Shankar Nagar,7 PM to 5 AM,1,4,2,3,1,0
+Gorewada erea,Futala,4 PM to 7 PM,5.7,3,4,1,1,5
+Kamptee,Koradi,7 PM to 5 AM,14.6,1,1,2,1,11
+Dhantoli,Ramdaspeth,11 PM to 4 AM,1.2,5,3,5,1,3
+Gorewada Area,Seminary Hills,5 PM to 7 PM,5.1,1,3,1,1,5
+Seminary Hills,Civil Lines,7 PM to 5 AM,2.2,,1,3,1,2
+Pratap Nagar,Trimurti Nagar,5 AM to 4 PM,1.2,5,3,4,1,2
+Bajaj Naga,Pratap Naar,5pm-8pm,2.1,4,3,5,1,2
+Manewada,Narendra Nagar,8 PM - 3 AM,4.2,3,4,2,1,3
+Dhantoli,Sitabuldu,6am - 2pm,1.9,5,4,,1,0
+Itwari,Ramdaspeth,5am-4pm,4.3,2,5,3,1,3
+Gorewada Area,Koredi Road,4 PM to 7 PM,4.8,1,3,0,1,-1
+Ramdaspeth,Dharampeth,7 PM to 5 AM,1.3,5,2,3,2,2
+Civil Lines,Koradi Road,6 AM to 2 PM,4.4,4,3,3,1,0
+Wardha Road,Narendra Nagar, 6 AM to 2 PM ,1.8,3,2,3,1,3
+Dharampeth,Futala,9pm - 5am,4,4,3,3,1,3
+Hingna,Trimurti Nagr,4 pm to 7 pm,9.5,2,2,1,1,7
+Kroadi,koradi road,5am-4pm,8.7,2,5,2,0,
+Dharampeth,Trimurti Nagar,4 PM to 7 PM,1.9,4,4,3,2,2
+Dharampeth,Trimurti Nagar,5 AM to 4 PM,1.9,4,4,3,2,0
+Gtitikhadan,Koradi Road,5 AM to 4 PM,2.7,4,4,3,1,1
+Manish Nagar,pratap nagar,7 PM to 5 AM,3.3,2,3,3,1,2
+Shankar Nagar,trimurti nagar,9 AM to 5 PM,1.2,4,3,4,1,3
+Narendra Nagar, pratap nagar ,7 PM to 5 AM,3.8,5,1,2,1,8
+Wardha Road,Pratap Nagaar,5 AM to 4 PM,2.1,3,2,3,1,6
+Gittikhadan,Civil Lines,6am - 2pm,3.4,5,4,3,1,0
+Civil Lines,Sitabuldi,5 AM - 4 PM,2,5,4,4,2,1
+Narendra Nagar,Pratap Nagar, 6am - 2pm ,3.8,5,4,2,1,2
+Gittikhadan,Sitabuldi,7 pm to 3 am,4.5,2,2,2,1,5
+Bajaj Nagar,Hingna,5 AM - 4 PM,8.9,4,3,3,1,3
+Gorewada Area,Koradi,5 AM to 4 PM,9.6,2,1,1,1,5
+Dhantoli, ramdaspeth ,7 AM to 3 PM,1.2,5,4,5,1,1
+Bajaj Nogar,Shankar Nagar,5 PM to 8 PM,1.2,3,3,2,1,3
+Civil Lines,Koardi Road,7 PM to 5 AM,4.4,4,2,3,1,1
+Narendra Nagar,Besa / Beltarodi,10 PM to 2 AM,4.5,2,0,3,1,8
+Futala,Gorewada Area,10 AM to 2 PM,5.7,3,3,1,1,3
+Gittikhadan,Kamptee,5 AM to 4 PM,14.9,2,1,2,0,9
+Gorewada Area,Koradi Road,6 AM to 3 PM,4.8,1,4,0,1,1
+Manewada,Narendra Ngr,4 PM to 7 PM,4.2,3,5,2,1,1
+Wardha Road,Narendra Nagar,7 PM to 5 AM,1.8,3,0,3,1,3
+Bajaj Nagar,Hinggna,5 PM to 7 PM,8.9,4,2,3,1,4
+Besa / Beltaodi,Manewada,11 PM to 4 AM,5.4,2,3,2,0,11
+Besa / Beltarodi,Narendra Nagar,4 pm to 7 pm,4.5,2,4,3,1,3
+Futala,Shankar Nagar,5 PM to 7 PM,3.8,3,4,,1,0
+Dharampeth,Futala,6 PM to 8 PM,4,4,5,3,1,1
+Seminary Hills,Sitabuldi,7 PM to 5 AM,3.6,1,1,2,1,150
+Shankar Nagar,Trimurti Nagar,11 PM to 4 AM,1.2,4,3,4,1,8
+Itwari,Sitabuldi,5 AM - 4 PM,3.3,5,5,2,1,0
+Kamptee,Koradi,4 PM to 7 PM,14.6,1,3,2,1,1
+Itwari, ramdaspeth ,7 PM to 5 AM,4.3,2,2,,,4
+Civil Lines,Ramdespeth,6 AM to 2 PM,2.9,4,4,3,1,2
+Gittikhadan,Koradi,5 AM to 4 PM,10.8,3,3,3,1,2
+Pratap Nagar,Trimurti Nagar,1 AM to 4 AM,1.2,5,2,4,1,4
+Gorewada Area,Korodi,5 AM to 4 PM,9.6,2,1,1,1,5
+Bajaj Nagar,Prtap Nagar,5pm-8pm,2.1,4,3,5,1,2
+Manish Nagar,Wardha Road,4 PM to 7 PM,1.8,3,4,2,1,2
+Pratap Nagar,Wardha Road,5am-4pm,2.1,3,2,3,1,6
+Hingna,Menish Nagar,5pm-8pm,9.3,1,3,3,1,1
+Bajaj Nagar,Shankar Nagar,5 AM to 4 PM,1.2,3,3,2,1,0
+Koradi,Koradi Road,7 pm to 3 am,8.7,2,0,2,0,15
+Narendra Nagar,Wardha Road,5pm-8pm,1.8,3,3,3,1,2
+Koadi,Koradi Rd,5 PM to 8 PM,8.7,2,2,2,0,6
+Sitabuldi,Gittikhadan,5 PM to 8 PM,4.5,3,4,2,1,8
+Dhantoli,Dharampeth,6 AM to 2 PM,2,5,4,4,1,0
+Koradi Road,Gittikhadan,9 PM to 5 AM,2.7,4,0,3,1,2
+besa / beltarodi,Manewada,5am-4pm,5.4,3,2,2,0,7
+Manish Nagar,Narendra Nagar,9 PM to 5 AM,2.6,4,1,2,1,1
+Bajaj Nagar,Shankar Nagar,7 pm to 3 am,1.2,3,2,2,1,1
+Futala,Shankar Nagar,7 PM to 5 AM,3.8,3,2,3,1,5
+Itari,Dhantoli,5 AM to 4 PM,3.7,2,3,4,1,1
+Hingna,Manish Nagar,6 AM to 3 PM,9.3,1,3,3,1,3
+Itwari,Manewada,10 AM to 2 PM,5.1,1,5,2,1,2
+Bajaj Nagar,Trimurti Nagra,4 PM to 7 PM,0.9,4,4,5,1,2
+Sitabuldi,Seminary Hills,5 PM to 8 PM,3.6,1,5,2,1,3
+Besa / Beltarodi,Manish Nagar,7 PM to 5 AM,6.1,1,1,3,1,7
+Gorewada Area,Koradi,4 pm to 7 pm,9.6,2,3,1,,
+Dhantoli,Sitabaldi,11 PM to 4 AM,1.9,5,3,4,1,3
+Manish Naggar,Pratap Nagar,6am - 2pm,3.3,3,4,3,1,2
+Dhantoli,Ramdaspeth,7 PM to 5 AM,1.2,5,3,5,1,3
+Gittikhadan,Kamptee,7 PM to 5 AM,14.9,1,1,2,0,7
+Civil Lines,Sitabuldi,5 AM to 4 PM,2,5,4,4,2,1
+Futala,Gorewada Area,7 pm to 3 am,5.7,3,1,1,1,5
+Fuatla,Shankar Nagar,10 AM to 2 PM,3.8,3,2,,1,1
+Manish Nagar,Wardha Road,10 PM to 2 AM,1.8,3,1,2,1,2
+Futala,Seminary Holls,5am-4pm,2.5,2,3,2,1,2
+  Dhantoli  ,Itwari,8 PM - 3 AM,3.7,1,2,4,1,5
+manish nagar,Narendra Nagar,4 PM to 7 PM,2.6,4,2,2,1,2
+Bajaj Nagar,Praatp Nagar,6am - 2pm,2.1,4,4,5,1,3
+Manish Nagar,Pratap Nagar,4 PM to 7 PM,3.3,3,3,3,1,4
+Itwari,Manewada,4 PM to 6 PM,5.1,1,4,2,1,12
+Besa / Beltarodi,Narendra Nagar,8 AM to 12 PM,4.5,2,3,3,1,0
+Koraid,Kamptee,6 AM to 2 PM,14.6,1,4,2,1,1
+Civil Lines,Koradi Road,5 PM to 7 PM,4.4,4,3,3,1,0
+Gorewada Area,Seminary Hills,10 PM to 2 AM,5.1,1,0,1,,13
+Seminary Hulls,Sitabuldi,5 AM - 4 PM,3.6,1,3,2,1,0
+Bajaj Nagar,Hingna,7 pm to 3 am,8.9,4,2,3,1,5
+Ramdaspeth,Sitabuldi,6 AM to 2 PM,1.5,5,5,4,1,1
+Futala,Seminary Hills,5 PM to 7 PM,2.5,2,4,2,1,4
+Dharmpeth,Shinkar Nagar,10 AM to 2 PM,1,4,4,3,1,0
+Pratap Nagar,Wardha Road,10 PM to 2 AM,2.1,3,2,3,1,6
+Itwri,Sitabuli,7pm-3am,3.3,5,1,2,1,12
+Trimurti Nagar,Dharampeth,7 PM to 5 AM,1.9,4,3,3,2,2
+Itwari,Manewada,7 PM to 5 AM,5.1,1,1,2,1,9
+Bajaj Nagar,Shankar Nagar,7 PM to 5 AM,1.2,3,2,2,1,1
+Besa / Beltarodi,Manewada,4 PM to 7 PM,5.4,3,3,2,0,4
+Narendra Nagar,PRATAP NAGAR,4 pm to 7 pm,3.8,5,4,2,1,3
+Manish Nagar,Besa / Beltarodi,8 AM to 12 PM,6.1,1,2,3,1,2
+Civil Lines,Seminary Hills,5 AM - 4 PM,2.2,3,3,3,1,1
+Gorewada Area,Seminary Hills,5 AM to 4 PM,5.1,,3,1,1,4
+Patap Nagar,Trimurti Nagar, 4 PM to 6 PM ,1.2,5,2,4,1,1
+Narendra Nagar,Pratap NNagar,4 PM to 7 PM,3.8,5,4,2,1,3
+Kampete,Koradi Road,5 PM to 8 PM,15.7,3,3,2,0,3
+Kamptee,Koradi Road,8 AM to 12 PM,15.7,3,,2,0,9
